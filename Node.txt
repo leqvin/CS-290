@@ -1,0 +1,3 @@
+http://flip3.engr.oregonstate.edu:44478/
+
+https://github.com/leqvin/CS-290
